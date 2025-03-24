@@ -11,7 +11,7 @@ This repository contains code and data for replicating the U.S. soybean yield pr
 2. Install dependencies via `pip install -r requirements.txt`
 3. Launch Jupyter Notebook and open `notebook/soybean_yield.ipynb`
 4. Run all cells to reproduce the results
-/
+
 Please note: Model training may take a while, so please be patient while the computations complete...
 
 
