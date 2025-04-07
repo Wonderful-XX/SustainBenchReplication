@@ -16,7 +16,8 @@ Please note: Model training may take a while, so please be patient while the com
 
 
 ## Data
-The `data/` folder contains pre-split NPZ files (`train_hists.npz`, `train_yields.npz`, etc.) from SustainBench.
+The Google drive below contains pre-split NPZ files (`train_hists.npz`, `train_yields.npz`, etc.) from SustainBench.
+Datasets link：https://drive.google.com/drive/folders/1EXZM4eOsEkMHdA_LdIPGmMraRkmLdqMO?usp=drive_link
 
 ## Results
 Validation RMSE ~0.356 t/ha, R² ~0.732  
